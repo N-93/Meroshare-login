@@ -52,8 +52,8 @@ driver.get('https://meroshare.cdsc.com.np/#/login')
 
 time.sleep(2)
 dp = '11000'
-username = '307727'
-passwd = 'Iwtb93@MS'
+username = '30777'
+passwd = '********'
 
 #driver.find_element_by_tag_name('body').send_keys(Keys.TAB)
 # select_dp = driver.find_element(By.CLASS_NAME, 'app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden')
